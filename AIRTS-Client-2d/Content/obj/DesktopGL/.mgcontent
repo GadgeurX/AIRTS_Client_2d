@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/romai/Documents/Visual Studio 2017/Projects/AIRTS-Client-2d/AIRTS-Client-2d/Content/Graphics/GUI/Button_Push.png</File>
+    <File>C:/Users/romai/Documents/Visual Studio 2017/Projects/AIRTS-Client-2d/AIRTS-Client-2d/Content/Graphics/GUI/Button.png</File>
+    <File>C:/Users/romai/Documents/Visual Studio 2017/Projects/AIRTS-Client-2d/AIRTS-Client-2d/Content/Graphics/NotFound.png</File>
+    <File>C:/Users/romai/Documents/Visual Studio 2017/Projects/AIRTS-Client-2d/AIRTS-Client-2d/Content/Fonts/Arial_12.spritefont</File>
+    <File>C:/Users/romai/Documents/Visual Studio 2017/Projects/AIRTS-Client-2d/AIRTS-Client-2d/Content/Fonts/Arial_20.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
